@@ -16,4 +16,4 @@ def fibonacci(count):
   
     return my_list[:count] 
   
-print(int(input("the number of series :"))) 
+print(fibonacci(int(input("the number of series :")))) 
