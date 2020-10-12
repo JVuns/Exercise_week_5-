@@ -1,5 +1,4 @@
 import datetime
-import calendar
 now = datetime.datetime.now()
 year = lambda x: x.year
 month = lambda x: x.month
